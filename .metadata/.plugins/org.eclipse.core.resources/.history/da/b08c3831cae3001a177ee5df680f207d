@@ -1,0 +1,17 @@
+package com.org.project.Commands;
+
+import org.openqa.selenium.By;
+
+import com.org.project.framework.WebDriverFactory;
+
+public class UserActions extends WebDriverFactory{
+
+	public UserActions() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public void clickElement(By Locator) {
+		driver.findElement(Locator).click();
+	}
+
+}

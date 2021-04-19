@@ -1,0 +1,5 @@
+com\org\project\Commands\UserActions.class
+com\org\project\BusinessLogic\SamplPage.class
+com\org\project\TestRunner\extentGen.class
+com\org\project\TestRunner\Allocator.class
+com\org\project\PageObjects\samplePageObject.class

@@ -1,0 +1,5 @@
+com\org\project\BussinessLogic\Guru.class
+com\org\project\Actions\UserActions.class
+com\org\project\BussinessLogic\test.class
+com\org\project\pageObjects\Gurupage.class
+com\org\project\Allocater\Allocater.class
